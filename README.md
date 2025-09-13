@@ -8,4 +8,5 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-<img src="trabalho-pratico-si-semana-2-DCinis/public/Yoshikage_Kira_Original_Infobox_Anime.png">
+<img src="public/Captura de Tela (10).png">
+git 
