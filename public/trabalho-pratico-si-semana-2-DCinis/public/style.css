@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    
+    color: seashell;
+
+    font-family: monospace;
+
+    font-size: 165%;
+}
+h1 {
+    text-align: center;
+    font-size: 350%;
+}
+img{
+    float: left;
+    margin-right: 1%;
+}

@@ -3,9 +3,9 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Danylo Cristyan Santos Teixeira
+- Matricula: 1598438
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+<img src="trabalho-pratico-si-semana-2-DCinis/public/Yoshikage_Kira_Original_Infobox_Anime.png">
